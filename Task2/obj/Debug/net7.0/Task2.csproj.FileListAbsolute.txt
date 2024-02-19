@@ -1,0 +1,14 @@
+/Users/a13/Desktop/GeekBrain/3языки программирования/lesson1/Task2/bin/Debug/net7.0/Task2
+/Users/a13/Desktop/GeekBrain/3языки программирования/lesson1/Task2/bin/Debug/net7.0/Task2.deps.json
+/Users/a13/Desktop/GeekBrain/3языки программирования/lesson1/Task2/bin/Debug/net7.0/Task2.runtimeconfig.json
+/Users/a13/Desktop/GeekBrain/3языки программирования/lesson1/Task2/bin/Debug/net7.0/Task2.dll
+/Users/a13/Desktop/GeekBrain/3языки программирования/lesson1/Task2/bin/Debug/net7.0/Task2.pdb
+/Users/a13/Desktop/GeekBrain/3языки программирования/lesson1/Task2/obj/Debug/net7.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a13/Desktop/GeekBrain/3языки программирования/lesson1/Task2/obj/Debug/net7.0/Task2.AssemblyInfoInputs.cache
+/Users/a13/Desktop/GeekBrain/3языки программирования/lesson1/Task2/obj/Debug/net7.0/Task2.AssemblyInfo.cs
+/Users/a13/Desktop/GeekBrain/3языки программирования/lesson1/Task2/obj/Debug/net7.0/Task2.csproj.CoreCompileInputs.cache
+/Users/a13/Desktop/GeekBrain/3языки программирования/lesson1/Task2/obj/Debug/net7.0/Task2.dll
+/Users/a13/Desktop/GeekBrain/3языки программирования/lesson1/Task2/obj/Debug/net7.0/refint/Task2.dll
+/Users/a13/Desktop/GeekBrain/3языки программирования/lesson1/Task2/obj/Debug/net7.0/Task2.pdb
+/Users/a13/Desktop/GeekBrain/3языки программирования/lesson1/Task2/obj/Debug/net7.0/Task2.genruntimeconfig.cache
+/Users/a13/Desktop/GeekBrain/3языки программирования/lesson1/Task2/obj/Debug/net7.0/ref/Task2.dll
